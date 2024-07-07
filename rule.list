@@ -109,6 +109,7 @@ DOMAIN-KEYWORD,gitlab
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,recaptcha
 DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,terabox
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,testflight
@@ -131,6 +132,8 @@ IP-CIDR,52.223.192.0/20,no-resolve
 IP-CIDR,52.223.208.0/21,no-resolve
 IP-CIDR,52.223.224.0/19,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,77.88.0.0/18,no-resolve
 IP-CIDR,87.250.224.0/19,no-resolve
@@ -139,7 +142,11 @@ IP-CIDR,95.108.128.0/17,no-resolve
 IP-CIDR,99.181.64.0/18,no-resolve
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,103.53.48.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,158.85.5.192/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
@@ -153,10 +160,13 @@ IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,185.32.187.0/24,no-resolve
 IP-CIDR,185.42.204.0/22,no-resolve
 IP-CIDR,192.16.64.0/21,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,192.108.239.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,199.9.248.0/21,no-resolve
 IP-CIDR,199.21.96.0/22,no-resolve
 IP-CIDR,199.36.240.0/22,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
 IP-CIDR,213.180.192.0/19,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
